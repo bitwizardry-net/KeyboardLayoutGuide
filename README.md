@@ -1,6 +1,6 @@
 # KeyboardLayoutGuide
 
-Did you ever wonder why the bottom layout guide is never moved to refelct the new bottom of the view when the iOS keyboard is shown? Or at least why isn't there a separate keyboard layout guide? Same here.
+Did you ever wonder why the bottom layout guide is never moved to refelct the new bottom of the view when the iOS keyboard is shown? Or why isn't ther at least a separate keyboard layout guide? Same here.
 
 There are several other solutions out there which handle this problem by putting your views in a scroll view or by modifying the frame of the root view. 
 
